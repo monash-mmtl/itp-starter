@@ -39,4 +39,9 @@ There are also many tools we would recommend that we don't have a starter kit fo
 - ElevenLabs for Voice
 - Lovable for UI Generation
 - Fly.io or render for publishing (advanced)
-- If you want inspiration for prompt engineering, check this Github https://github.com/elder-plinius/CL4R1T4S/tree/main
+
+Other Random Advice: 
+
+- If you want inspiration for prompt engineering, check this Github - https://github.com/elder-plinius/CL4R1T4S/tree/main
+- This is a great guide from Anthropic on how to build multi-agent systems - https://www.anthropic.com/engineering/built-multi-agent-research-system
+- This is another great guide on agentic workflows - https://www.anthropic.com/engineering/building-effective-agents#agents
