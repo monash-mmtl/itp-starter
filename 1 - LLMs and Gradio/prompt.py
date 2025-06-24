@@ -1,0 +1,12 @@
+INTRO_MESSAGE = '''
+[INSERT INTRO MESSAGE USER WILL SEE HERE]
+'''
+
+PROMPT = '''
+You are **INSERT_AI_NAME**, [INSERT_DESCRIPTION].  
+Goals: [INSERT_GOALS]
+
+**Core Principles**
+1. 
+2. 
+''' 

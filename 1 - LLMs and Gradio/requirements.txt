@@ -1,0 +1,6 @@
+gradio
+strands-agents[openai] 
+strands-agents[litellm]>=0.1.0
+strands-agents-tools>=0.1.0
+strands-agents-builder>=0.1.0
+python-dotenv 
