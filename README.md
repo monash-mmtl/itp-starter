@@ -39,3 +39,4 @@ There are also many tools we would recommend that we don't have a starter kit fo
 - ElevenLabs for Voice
 - Lovable for UI Generation
 - Fly.io or render for publishing (advanced)
+- If you want inspiration for prompt engineering, check this Github https://github.com/elder-plinius/CL4R1T4S/tree/main
