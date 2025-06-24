@@ -3,7 +3,7 @@
 This repository contains several starter folders for different types of web and AI projects. Below is an explanation of each folder and how to get started:
 
 ## 1 - LLMs and Gradio
-- **Purpose:** Deployment of a Large Language Model (LLM) with a Gradio web interface.
+- **Purpose:** Deployment of a Large Language Model (LLM) with a Gradio/Hugging Face Chat UI web interface.
 - **Recommended for:** AI projects and rapid prototyping. Use this if you'd just like to play around with AI and prompt engineering for your use case!
 - **How to start:**
   - Navigate to this folder.
@@ -31,3 +31,11 @@ This repository contains several starter folders for different types of web and 
 ---
 
 Feel free to explore each folder and choose the one that best fits your project needs! 
+
+There are also many tools we would recommend that we don't have a starter kit for: 
+
+- Streamlit as an alternative to Gradio
+- Perplexity for Web Search capability (requires a debit/credit card)
+- ElevenLabs for Voice
+- Lovable for UI Generation
+- Fly.io or render for publishing (advanced)
