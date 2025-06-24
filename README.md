@@ -45,3 +45,5 @@ Other Random Advice:
 - If you want inspiration for prompt engineering, check this Github - https://github.com/elder-plinius/CL4R1T4S/tree/main
 - This is a great guide from Anthropic on how to build multi-agent systems - https://www.anthropic.com/engineering/built-multi-agent-research-system
 - This is another great guide on agentic workflows - https://www.anthropic.com/engineering/building-effective-agents#agents
+- If you want to play with different AI architectures, the library we use is Amazon's Strands - you can read more here - https://strandsagents.com/latest/. They have some pretty cool multi-agent architectures like a swarm and graph. We would recommend reading Anthropic's guide to agentic workflows and multi-agent workflows before proceeding with this. 
+- Anthropic has created an amazing way to connect your AI systems with any tool you can imagine through the MCP protocol. You don't really need to know how these work (although if you're interested, this is a great link - https://www.anthropic.com/news/model-context-protocol). If you want to integrate awesome MCP tools to your AI - check out this list! https://github.com/punkpeye/awesome-mcp-servers
