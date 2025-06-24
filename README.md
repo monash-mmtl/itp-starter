@@ -4,26 +4,26 @@ This repository contains several starter folders for different types of web and 
 
 ## 1 - LLMs and Gradio
 - **Purpose:** Deployment of a Large Language Model (LLM) with a Gradio/Hugging Face Chat UI web interface.
-- **Recommended for:** AI projects and rapid prototyping. Use this if you'd just like to play around with AI and prompt engineering for your use case!
+- **Recommended for:** Beginner students for AI projects and rapid prototyping. Use this if you'd just like to play around with AI and prompt engineering for your use case!
 - **How to start:**
   - Navigate to this folder.
-  - Run `main.py` to launch the Gradio website.
+  - Run `main.py` to launch the Gradio website - might require logins/API keys
 
 ## 2 - LLMs only
 - **Purpose:** Use of LLMs without a pre-built UI.
-- **Recommended for:** Advanced students who want to build their own user interface around an AI base.
+- **Recommended for:** Advanced students who want to build their own user interface around an AI base. Make sure to take a look at the folder '3 - Dynamic Website' to understand what might be required on the front end and back end. 
 - **Note:** Cannot be started as-is; requires further development to add a UI or other interaction method.
 
 ## 3 - Dynamic Website
 - **Purpose:** Example of a dynamic, full-stack website.
-- **Recommended for:** Students seeking a challenge and experience with both frontend and backend development.
+- **Recommended for:** Intermediate students who want to explore both front-end and back-end development. 
 - **How to start:**
   - Run `./setup.sh` to install dependencies.
   - Run `./start.sh` to start the project.
 
 ## 4 - Static Website
 - **Purpose:** Simple static website that can be easily deployed to GitHub Pages.
-- **Recommended for:** Students who want to quickly deploy a static website (i.e. no AI).
+- **Recommended for:** Beginner students who want to quickly deploy a static website (i.e. no AI).
 - **How to check the site:**
   - Open `4 - Static Website/index.html` in your browser.
 - **Tip:** Search for "GitHub Pages deployment" on Google if you want to publish this site online.
@@ -42,6 +42,7 @@ There are also many tools we would recommend that we don't have a starter kit fo
 
 Other Random Advice: 
 
+- Front-end means anything a user sees (e.g. website, user interface). Back-end means anything a user does not see (e.g. AI, databases). A 'full-stack' engineer is an engineer who can do both!
 - If you want inspiration for prompt engineering, check this Github - https://github.com/elder-plinius/CL4R1T4S/tree/main
 - This is a great guide from Anthropic on how to build multi-agent systems - https://www.anthropic.com/engineering/built-multi-agent-research-system
 - This is another great guide on agentic workflows - https://www.anthropic.com/engineering/building-effective-agents#agents
