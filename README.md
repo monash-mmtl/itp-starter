@@ -1,4 +1,4 @@
-# ITP Starter Project
+# ITP Starter Kits
 
 This repository contains several starter folders for different types of web and AI projects. Below is an explanation of each folder and how to get started:
 
